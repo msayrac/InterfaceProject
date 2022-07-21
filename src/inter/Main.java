@@ -40,7 +40,7 @@ public class Main {
                 bpos.payment(price,cardNumber,date,cvc);
                 break;
             default :
-                System.out.println("Gecerli banka giriniz :");
+                System.out.println("Gecöerli banka giriniz ... :");
         }
 
 
