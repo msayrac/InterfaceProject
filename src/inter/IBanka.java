@@ -7,6 +7,9 @@ public interface IBanka {
 // comment added
     boolean payment(double price, String cardNumber,String date, String cvc);
 
+    // payment 2 added
+    boolean payment2(double price, String cardNumber,String date, String cvc);
+
 
 
 }
